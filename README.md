@@ -1,5 +1,5 @@
 # Espresso Client
-A very based 1.19.2 build with some of the best visuals currently on the market.
+A Fork of the 1.19.2 client "Coffee"; Updated to 1.19.3 and with added exploits, modules, and utilitys. 
 
 ![](https://komarev.com/ghpvc/?username=AstralsDB&style=for-the-badge&label=Views)
 
@@ -21,15 +21,19 @@ A very based 1.19.2 build with some of the best visuals currently on the market.
 ## How to get a release from a dev build
 1. Click the "Actions" tab
    ![grafik](https://user-images.githubusercontent.com/99053360/185212546-648c489e-f114-4698-9e8a-5c5edbe14a3f.png)
+   
 2. Click the latest entry
    ![grafik](https://user-images.githubusercontent.com/99053360/185212644-5daf090f-c23e-4433-a025-4424de822a46.png)
+
 3. Click on the "latest-dev.jar" artifact and download it
    ![grafik](https://user-images.githubusercontent.com/99053360/185212721-ca33a534-d563-4290-a042-515381664a73.png)
 
 Note that you have to be logged in to download artifacts.
 
 ## Using
-The ClickGUI is **not** bound by default. To bind it, run `.bind ClickGUI` and press the desired hotkey to bind to.
+The ClickGUI is bound by default to `RIGHT SHIFT`. 
+
+To re-bind it, run `.bind ClickGUI` and press the desired hotkey to bind to.
 
 To search inside of the ClickGUI, just type in the module name. The current search term will appear at the bottom right. Use `esc` to clear your search query
 
