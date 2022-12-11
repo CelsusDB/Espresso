@@ -1,5 +1,12 @@
 # Espresso Client
-A Fork of the 1.19.2 client "Coffee"; Updated to 1.19.3 and with added exploits, modules, and utilitys. 
+A Fork of the 1.19.2 client "Coffee".
+
+#### Added - TOP = Lastest
+- Added MineHut Crasher
+- Added Boat Fling, Server Console Spammer
+- Added Beacon Spoofer
+- Updated Resouces
+- Updated to 1.19.3
 
 ![](https://komarev.com/ghpvc/?username=AstralsDB&style=for-the-badge&label=Views)
 
